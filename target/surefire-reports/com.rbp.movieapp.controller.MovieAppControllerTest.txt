@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rbp.movieapp.controller.MovieAppControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.309 s - in com.rbp.movieapp.controller.MovieAppControllerTest
